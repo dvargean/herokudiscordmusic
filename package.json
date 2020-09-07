@@ -1,0 +1,23 @@
+{
+  "name": "discord-music-bot",
+  "version": "1.0.0",
+  "description": "This is a Music BOT Created BY TRIPLE_A™#1997",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "simple-youtube-api": "^5.2.1",
+    "opusscript": "^0.0.7",
+    "ytdl-core": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "discord-music-bot"
+  },
+  "author": "TRIPLE_A",
+  "license": "ISC"
+}
